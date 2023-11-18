@@ -1,10 +1,8 @@
-![](https://komarev.com/ghpvc/?username=marcusfreitasantos&color=006bed)
-
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **ENGENHARIA DE SOFTWARE** no <a href="link da sua faculdade">USP</a>.
-- 💼 Trabalhando como **DESENVOLVEDOR WEB** na <a href="LINK DA EMPRESA">DEER DESIGNER</a>
+- 🎓 Estudando **ENGENHARIA DE SOFTWARE** no <a href="https://mbauspesalq.com/">USP/Esalq</a>.
+- 💼 Trabalhando como **DESENVOLVEDOR WEB** na <a href="https://deerdesigner.com/">DEER DESIGNER</a>
 - 🌱 &nbsp; Aprendendo mais sobre **TYPESCRIPT E REACT NATIVE**.
 
 <h3>Minhas Skills</h3>
@@ -13,7 +11,7 @@
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextjs)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -41,4 +39,4 @@
 
 ![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mafreitas/)
 ![Gmail Badge](https://img.shields.io/badge/-marcusfreitasantos@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcusfreitasantos@gmail.com)
-![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)
+![GitHub](https://img.shields.io/github/followers/marcusfreitasantos?label=follow&style=social)
