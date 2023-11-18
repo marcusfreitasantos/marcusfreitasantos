@@ -1,7 +1,7 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Designer e desenvolvedor front-end apaixonado por criar experiências digitais inovadoras.
-- 🎓 Estudando **ENGENHARIA DE SOFTWARE** no <a href="https://mbauspesalq.com/">USP/Esalq</a>.
+- 🎓 Estudando **ENGENHARIA DE SOFTWARE** na <a href="https://mbauspesalq.com/">USP/Esalq</a>.
 - 💼 Trabalhando como **DESENVOLVEDOR WEB** na <a href="https://deerdesigner.com/">DEER DESIGNER</a>
 - 🌱 &nbsp; Aprendendo mais sobre **TYPESCRIPT E REACT NATIVE**.
 
