@@ -1,6 +1,6 @@
 <h3>Sobre mim</h3>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 Designer e desenvolvedor front-end apaixonado por criar experiências digitais inovadoras.
 - 🎓 Estudando **ENGENHARIA DE SOFTWARE** no <a href="https://mbauspesalq.com/">USP/Esalq</a>.
 - 💼 Trabalhando como **DESENVOLVEDOR WEB** na <a href="https://deerdesigner.com/">DEER DESIGNER</a>
 - 🌱 &nbsp; Aprendendo mais sobre **TYPESCRIPT E REACT NATIVE**.
@@ -11,7 +11,7 @@
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NextJS](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=next.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
