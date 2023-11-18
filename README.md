@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?username=marcusfreitasantos&color=006bed)
 
 <h3>Sobre mim</h3>
 
@@ -37,12 +37,8 @@
 
 <br/>
 
-<a href="https://github.com/marcusfreitasantos" title="Github do Marcus Freitas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
-
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mafreitas/)]
-[![Gmail Badge](https://img.shields.io/badge/-marcusfreitasantos@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcusfreitasantos@gmail.com)]
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]
+![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mafreitas/)
+![Gmail Badge](https://img.shields.io/badge/-marcusfreitasantos@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcusfreitasantos@gmail.com)
+![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)
