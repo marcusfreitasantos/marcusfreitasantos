@@ -37,5 +37,5 @@
 
 <h3>Where to find me</h3>
 
-[![Linkedin](https://img.shields.io/badge/-mafreitas?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/mafreitas/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![Linkedin](https://img.shields.io/badge/-mafreitas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/mafreitas/)
+[![Gmail Badge](https://img.shields.io/badge/-marcusfreitasantos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:marcusfreitasantos@gmail)
