@@ -1,13 +1,13 @@
-<h3>Sobre mim</h3>
+<h3>About me</h3>
 
-- 🤔 Designer e desenvolvedor front-end apaixonado por criar experiências digitais inovadoras.
-- 🎓 Estudando **ENGENHARIA DE SOFTWARE** na <a href="https://mbauspesalq.com/">USP/Esalq</a>.
-- 💼 Trabalhando como **DESENVOLVEDOR WEB** na <a href="https://deerdesigner.com/">DEER DESIGNER</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TYPESCRIPT E REACT NATIVE**.
+- 🤔 Designer and front-end developer passioned by creating great digital experiences and inovation.
+- 🎓 Studying **SOFTWARE ENGINEERING** at <a href="https://mbauspesalq.com/">USP/Esalq</a>.
+- 💼 Working as **WEB DEVELOPER** at <a href="https://deerdesigner.com/">DEER DESIGNER</a>
+- 🌱 &nbsp; Learning more about **TYPESCRIPT AND REACT NATIVE**.
 
-<h3>Minhas Skills</h3>
+<h3>Skills</h3>
 
-**Aplicações e dados**
+**Development**
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
@@ -27,7 +27,7 @@
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
 
-**Ferramentas de desenvolvimento**
+**Prototyping and Development Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
@@ -35,7 +35,7 @@
 
 <br/>
 
-<h3>Onde me encontrar</h3>
+<h3>Where to find me</h3>
 
-![Linkedin](https://img.shields.io/badge/-mafreitas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mafreitas/)
-![Gmail Badge](https://img.shields.io/badge/-marcusfreitasantos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcusfreitasantos@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
