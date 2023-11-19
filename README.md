@@ -3,7 +3,7 @@
 - 🤔 Designer and front-end developer passioned by creating great digital experiences and inovation.
 - 🎓 Studying **SOFTWARE ENGINEERING** at <a href="https://mbauspesalq.com/">USP/Esalq</a>.
 - 💼 Working as **WEB DEVELOPER** at <a href="https://deerdesigner.com/">DEER DESIGNER</a>
-- 🌱 &nbsp; Learning more about **TYPESCRIPT AND REACT NATIVE**.
+- 🌱 Learning more about **TYPESCRIPT AND REACT NATIVE**.
 
 <h3>Skills</h3>
 
