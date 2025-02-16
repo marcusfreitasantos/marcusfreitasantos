@@ -1,14 +1,15 @@
 <h3>About me</h3>
 
-- 🤔 Designer and front-end developer passioned by creating great digital experiences and inovation.
+- 🤔 Mobile developer passioned by creating great mobile apps and innovation.
 - 🎓 Studying **SOFTWARE ENGINEERING** at <a href="https://mbauspesalq.com/">USP/Esalq</a>.
-- 💼 Working as **WEB DEVELOPER** at <a href="https://deerdesigner.com/">DEER DESIGNER</a>
-- 🌱 Learning more about **TYPESCRIPT AND REACT NATIVE**.
+- 💼 Working as **FULL STACK DEVELOPER** at <a href="https://english.pearson.com.br/pearson-english-portal">PEARSON</a>
+- 🌱 Learning more about **SWIFT AND IOS DEVELOPMENT**.
 
 <h3>Skills</h3>
 
 **Development**
 
+![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![NextJS](https://img.shields.io/badge/-Next.JS-333333?style=flat&logo=next.js)
@@ -26,12 +27,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
+![AWS](https://img.shields.io/badge/-Aws-333333?style=flat&logo=aws)
 
 **Prototyping and Development Tools**
 
+![XCode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=xcode&logoColor=007ACC)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
 <br/>
 
