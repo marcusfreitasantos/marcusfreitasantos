@@ -1,7 +1,7 @@
 <h3>About me</h3>
 
 - 🤔 Mobile developer passioned by creating great mobile apps and innovation.
-- 🎓 Studying **SOFTWARE ENGINEERING** at <a href="https://mbauspesalq.com/">USP/Esalq</a>.
+- 🎓 Graduated in **SOFTWARE ENGINEERING** at <a href="https://mbauspesalq.com/">USP/Esalq</a>.
 - 💼 Working as **FULL STACK DEVELOPER** at <a href="https://english.pearson.com.br/pearson-english-portal">PEARSON</a>
 - 🌱 Learning more about **SWIFT AND IOS DEVELOPMENT**.
 
