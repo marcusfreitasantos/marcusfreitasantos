@@ -1,25 +1,26 @@
 <h3>About me</h3>
 
-- 🤔 Mobile developer passioned by creating great mobile apps and innovation.
+- 🤔 Full stack developer passioned by creating great apps and innovation.
 - 🎓 Graduated in **SOFTWARE ENGINEERING** at <a href="https://mbauspesalq.com/">USP/Esalq</a>.
-- 💼 Working as **FULL STACK DEVELOPER** at <a href="https://english.pearson.com.br/pearson-english-portal">PEARSON</a>
-- 🌱 Learning more about **SWIFT AND IOS DEVELOPMENT**.
+- 💼 Working as **SENIOR SOFTWARE ENGINEER** at <a href="https://english.pearson.com.br/pearson-english-portal">PEARSON</a>
+- 🌱 Learning more about **PYTHON AND SOFTWARE ARCHITECTURE**.
 
 <h3>Skills</h3>
 
 **Development**
 
-![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![NextJS](https://img.shields.io/badge/-Next.JS-333333?style=flat&logo=next.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
+
 
 **DevOps**
 
